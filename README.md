@@ -6,6 +6,11 @@
 
 ---
 
+![African Gig Economy Digital Wallet Risk Dashboard](African gig economy and digital wallet visualization-1.png)
+
+
+
+
 ## 1. Business Problem
 
 Digital wallets are the primary way gig workers (ride-hailing drivers, delivery couriers, domestic workers, freelancers, agricultural day labourers, etc.) get paid across Africa. That convenience comes with exposure: thin KYC files, irregular/high-velocity cash-in/cash-out patterns, and multiple payment rails (Mobile App, USSD, Agent, POS, API/Third-Party) create fraud surface area that's expensive for wallet providers and risky for workers who depend on uninterrupted access to their earnings.
