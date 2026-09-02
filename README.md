@@ -5,8 +5,9 @@
 **Type:** Portfolio analytics project — fraud & risk analytics for digital wallets used by gig economy workers across Ghana, Kenya, Nigeria, and South Africa
 
 ---
-
-![African Gig Economy Digital Wallet Risk Dashboard](African gig economy and digital wallet visualization-1.png)
+![Executive Overview](dashboard/power%20bi/African%20gig%20economy%20and%20digital%20wallet%20visualization-1.png)
+![Channel Performance](dashboard/power%20bi/African%20gig%20economy%20and%20digital%20wallet%20visualization-2.png)
+![Fraud & Risk Intelligence](dashboard/power%20bi/African%20gig%20economy%20and%20digital%20wallet%20visualization-3.png)
 
 
 
