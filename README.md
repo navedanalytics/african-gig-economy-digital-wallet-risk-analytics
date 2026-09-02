@@ -7,6 +7,7 @@
 
 **Author:** Naved Khan
 **Tools:** Power BI (dashboard) · Excel/SQL/Python (data prep) · DAX (measures)
+
 **Type:** Portfolio analytics project — fraud & risk analytics for digital wallets used by gig economy workers across Ghana, Kenya, Nigeria, and South Africa
 
 ---
